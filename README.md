@@ -2,7 +2,7 @@
 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a dataset. The goal is to prepare tidy data that can be used for later analysis.
 
-The file [run_analysis.R]([https://github.com/miryamelizabeth/DS-Course-Project/blob/master/run_analysis.R](https://github.com/miryamelizabeth/DS-Course-Project/blob/master/run_analysis.R)) contains the R script that does the following:
+The file [run_analysis.R](https://github.com/miryamelizabeth/DS-Course-Project/blob/master/run_analysis.R) contains the R script that does the following:
 
 1.  Download the datasets from the UCI repository. The datasets contains measures from a Samsung Galaxy S smartphone.
 2. Then, merges the training and the test sets to create one data set.
